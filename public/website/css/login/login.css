@@ -1,0 +1,35 @@
+body {
+    background-image: url(../../../assets/images/bg-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#welcome {
+    font-family: "Borel", cursive;
+    font-family: "Dosis", sans-serif;
+    font-family: "Kaisei Decol", serif;
+    font-family: "Merriweather", serif;
+    font-family: "Oswald", sans-serif;
+}
+#loginButton {
+    border: 5px solid #f8565e;
+    color: aliceblue;
+    background-color: #f8565e;
+}
+#loginButton:hover {
+    background-color: #0b2d51;
+    border: 5px solid #0b2d51;
+    color: aliceblue;
+}
+#regButton {
+    border: 5px solid #f8565e;
+    color: aliceblue;
+    background-color: #f8565e;
+}
+#regButton:hover {
+    background-color: #0b2d51;
+    border: 5px solid #0b2d51;
+    color: aliceblue;
+}
+.error{
+    background-color: aliceblue;
+}

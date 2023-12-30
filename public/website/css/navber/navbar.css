@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+img{
+    width: 100%;
+}
+#navbar{
+    padding: 10px 0 0 0;
+}
+.navbar{
+    margin: 0;
+}
+#logo{
+    width: 140px;
+}
+.navText{
+    font-weight:400;
+    transition: 0.8s;
+}
+.navTextHome{
+    font-weight:400;
+    border-bottom: 4px solid #092753;
+}
+.navText :hover{
+    border-bottom: 4px solid #092753;
+    
+}
+#langBtn{
+    background-color: #76A379;
+}
